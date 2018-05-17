@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1f8c0313-d356-4d37-95d9-66472f7810e2" solutionId="1f8c0313-d356-4d37-95d9-66472f7810e2" resetWebServer="false" name="ContatosInternos" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b382c65e-2b65-4886-915f-e36414ebb92b" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="34ce636a-c590-42eb-9f37-a78fdf9e0734" />
+  </projectItems>
+</package>

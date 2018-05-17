@@ -1,0 +1,65 @@
+﻿/*
+.tabela_contatos 
+{
+width:700px;    
+border-collapse:collapse
+}
+
+.tabela_contatos td
+{
+font:normal 12px Arial; 
+color:#000; 
+padding:4px 5px; 
+text-align:left 
+}
+
+.tabela_contatos .cabecalho_tabela_contatos 
+{ 
+background:#FC0;
+font-weight:bold;
+}
+
+.tabela_contatos .departamento  
+{
+background:#538DD5 
+}
+
+.tabela_contatos .departamento td  
+{
+border-top:1px solid #000; 
+border-collapse:collapse; 
+border-bottom:1px solid #000 
+}
+
+.tabela_contatos .fundo_claro 
+{
+background:#DCE6F1
+}
+
+.tabela_contatos .fundo_escuro
+{ 
+background:#B8CCE4 
+}
+*/
+
+
+
+.subtitulo_pagina { font:bold 18px Arial; color:#FFA800; margin-bottom:0 }
+
+.texto_pagina { font:8pt Verdana; color:#676767; letter-spacing:normal }
+
+/*.grid_tabela {background-color:#cccccc;}*/
+
+/*.grid_tabela {border-color:#CCCCCC; border-width:1px;}*/
+
+.grid_cabecalho {font:bold 8pt Verdana; color:#676767; text-align:center; background-color:#FFA800; height:25px; border:1px solid #CCCCCC;}
+
+.grid_setor {font: 8pt Verdana;color:#000000;height:23px;background-color:#DCE6F1; border:1px solid #CCCCCC;}
+
+/*.grid_conteudo {font: 8pt Verdana;color:#676767;height:23px;background-color:#FFFFFF;border-bottom:1px solid #CCCCCC; border-top: 1px solid #CCCCCC;}*/
+
+.grid_conteudo {font: 8pt Verdana;color:#676767;height:23px;background-color:#FFFFFF; border:1px solid #CCCCCC;}
+
+
+
+
